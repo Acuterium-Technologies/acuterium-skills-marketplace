@@ -1,5 +1,25 @@
 # Changelog — Acuterium Skills Marketplace
 
+## [v8.1.0] — 2026-06-26 — QODER ACAI V2 Design System Collection (25 skills)
+
+### Added — QODER Collection (`registry/skills/qoder/`, 25 files) — Thread T13 ACAI V2
+Authored in QoderWork, adopted into the registry. Glassmorphic "Liquid Glass" design system,
+cognitive engines, URANA platform, security, math, governance.
+- `QODER-ACAI-DESIGN-001` · `QODER-DESIGN-TOKENS-002` · `QODER-GLASS-COMP-003` · `QODER-COGNITIVE-ENGINES-004`
+- `QODER-MOTION-MORPH-005` · `QODER-WEB-IMPL-006` · `QODER-IOS-IMPL-007` · `QODER-ANDROID-IMPL-008`
+- `QODER-SWARM-UI-BUILD-009` · `QODER-URANA-PLATFORM-010` · `QODER-Q-ENC-SECURITY-011` · `QODER-MAJD-CHAT-012`
+- `QODER-ACUTECT-ORCHESTRATOR-013` · `QODER-SEEKER-AGENTS-014` · `QODER-AI-ORCHESTRATOR-015` · `QODER-BILINGUAL-RTL-016`
+- `QODER-PWA-KIT-017` · `QODER-NEURO-ENGINE-018` · `QODER-SUPABASE-AUTH-019` · `QODER-MATH-ENGINES-020`
+- `QODER-REDTEAM-QA-021` · `QODER-PSI-PERSUASION-022` · `QODER-SOVEREIGN-GOV-023` · `QODER-HANDOFF-PROTOCOL-024` · `QODER-LUQMANML-025`
+
+### Added — Collection registration
+- `registry/skills/qoder/INDEX.md` — collection index (ACU-SKILL-REGISTRY-QODER)
+- `registry/skills/qoder/qoder-skills.json` — collection manifest (truthful fields from source frontmatter)
+
+### Note
+- Master `skills.json` (generated) is NOT hand-edited here — run the registry generator to fold the
+  `qoder` collection into the master index and total count.
+
 ## [v8.0.0] — 2026-03-17 — Pan Framework + Commercial Products Release
 
 ### Added — Pan Framework Skills (9 files)
