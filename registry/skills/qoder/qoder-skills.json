@@ -1,0 +1,515 @@
+{
+  "collection": "qoder",
+  "display_name": "QODER — ACAI V2 Design System & URANA Platform",
+  "version": "1.0.0",
+  "thread": "T13 — ACAI V2",
+  "author": "Acuterium Technologies Inc. (authored in QoderWork)",
+  "license": "Proprietary-ACU",
+  "classification": "ACUTERIUM-PROPRIETARY",
+  "total_skills": 25,
+  "generated": "2026-06-26",
+  "note": "Truthful fields only (name/description from source frontmatter; thread per skill body). Fold into master skills.json via the registry generator.",
+  "skills": [
+    {
+      "skill_id": "ACU-QODER-001",
+      "registry_id": "903dc10f",
+      "name": "QODER-ACAI-DESIGN-001",
+      "display_name": "Acai Design",
+      "version": "1.0.0",
+      "category": "ACAI V2 Design System / URANA Platform",
+      "thread": "T13 — ACAI V2",
+      "thread_code": "T13",
+      "domain": "interface-design",
+      "collection": "qoder",
+      "description": "Acuterium Consciousness Aware Interface V2 (ACAI V2) — Master design system orchestrator for glassmorphic liquid-transparent UI across Web, iOS, and Android. Routes to design tokens, glass components, cognitive engines, motion systems, and platform implementations. Use when building Acuterium-branded interfaces, applying glass effects, theming (Government/Commercial/Client), or orchestrating multi-agent UI construction. Thread 13 — ACAI V2.",
+      "trigger_keywords": [
+        "acai",
+        "design"
+      ],
+      "source": "QoderWork — C:/Users/Legion/.qoderwork/skills",
+      "classification": "ACUTERIUM-PROPRIETARY",
+      "path": "registry/skills/qoder/QODER-ACAI-DESIGN-001/SKILL.md"
+    },
+    {
+      "skill_id": "ACU-QODER-013",
+      "registry_id": "9c14e69e",
+      "name": "QODER-ACUTECT-ORCHESTRATOR-013",
+      "display_name": "Acutect Orchestrator",
+      "version": "1.0.0",
+      "category": "ACAI V2 Design System / URANA Platform",
+      "thread": "T13 — ACAI V2",
+      "thread_code": "T13",
+      "domain": "interface-design",
+      "collection": "qoder",
+      "description": "AcuTect-CODEX multi-agent orchestration - ADOCP routing (101 models, 16 providers), Q-ARC quantum-informed resource coordination, PAN framework 7-phase pipeline, ASIP v2 soul infusion, 5-tier sovereignty enforcement, APMS protocol management (523 protocols). Use when building Acuterium multi-agent systems, orchestrating LLM workflows, or implementing sovereign AI pipelines. Thread 13 - ACAI V2.",
+      "trigger_keywords": [
+        "acutect",
+        "orchestrator"
+      ],
+      "source": "QoderWork — C:/Users/Legion/.qoderwork/skills",
+      "classification": "ACUTERIUM-PROPRIETARY",
+      "path": "registry/skills/qoder/QODER-ACUTECT-ORCHESTRATOR-013/SKILL.md"
+    },
+    {
+      "skill_id": "ACU-QODER-015",
+      "registry_id": "55b23aac",
+      "name": "QODER-AI-ORCHESTRATOR-015",
+      "display_name": "Ai Orchestrator",
+      "version": "1.0.0",
+      "category": "ACAI V2 Design System / URANA Platform",
+      "thread": "T13 — ACAI V2",
+      "thread_code": "T13",
+      "domain": "interface-design",
+      "collection": "qoder",
+      "description": "Multi-provider LLM orchestration engine for Acuterium — routes tasks across DeepSeek, Qwen, Kimi, and OpenAI using priority-based selection, automatic fallback chains, task-specific system prompts, and token usage audit logging. Use when building AI-powered features, selecting optimal LLM providers, or implementing intelligent model routing. Thread 13 — ACAI V2.",
+      "trigger_keywords": [
+        "ai",
+        "orchestrator"
+      ],
+      "source": "QoderWork — C:/Users/Legion/.qoderwork/skills",
+      "classification": "ACUTERIUM-PROPRIETARY",
+      "path": "registry/skills/qoder/QODER-AI-ORCHESTRATOR-015/SKILL.md"
+    },
+    {
+      "skill_id": "ACU-QODER-008",
+      "registry_id": "7b5e7e4b",
+      "name": "QODER-ANDROID-IMPL-008",
+      "display_name": "Android Impl",
+      "version": "1.0.0",
+      "category": "ACAI V2 Design System / URANA Platform",
+      "thread": "T13 — ACAI V2",
+      "thread_code": "T13",
+      "domain": "interface-design",
+      "collection": "qoder",
+      "description": "Android/Jetpack Compose implementation of ACAI V2 — glass modifiers (Modifier.glass, glassBackdrop, glassInteractive), edition theming via CompositionLocal, Material You dynamic color, shared-element transitions, cognitive engine hooks, CHRONOS temporal adaptation. Requires API 31+ for live blur. Thread 13 — ACAI V2.",
+      "trigger_keywords": [
+        "android",
+        "impl"
+      ],
+      "source": "QoderWork — C:/Users/Legion/.qoderwork/skills",
+      "classification": "ACUTERIUM-PROPRIETARY",
+      "path": "registry/skills/qoder/QODER-ANDROID-IMPL-008/SKILL.md"
+    },
+    {
+      "skill_id": "ACU-QODER-016",
+      "registry_id": "e2911e13",
+      "name": "QODER-BILINGUAL-RTL-016",
+      "display_name": "Bilingual Rtl",
+      "version": "1.0.0",
+      "category": "ACAI V2 Design System / URANA Platform",
+      "thread": "T13 — ACAI V2",
+      "thread_code": "T13",
+      "domain": "interface-design",
+      "collection": "qoder",
+      "description": "Bilingual Arabic/English typography and RTL layout system for Acuterium applications. Covers ArabicTypography component, bidirectional text handling, RTL CSS mirroring, font stack configuration (IBM Plex Sans Arabic, Tajawal, Readex Pro), and locale-aware formatting. Use when building bilingual interfaces, implementing RTL layouts, or handling Arabic text rendering. Thread 13 — ACAI V2.",
+      "trigger_keywords": [
+        "bilingual",
+        "rtl"
+      ],
+      "source": "QoderWork — C:/Users/Legion/.qoderwork/skills",
+      "classification": "ACUTERIUM-PROPRIETARY",
+      "path": "registry/skills/qoder/QODER-BILINGUAL-RTL-016/SKILL.md"
+    },
+    {
+      "skill_id": "ACU-QODER-004",
+      "registry_id": "5813ae6b",
+      "name": "QODER-COGNITIVE-ENGINES-004",
+      "display_name": "Cognitive Engines",
+      "version": "1.0.0",
+      "category": "ACAI V2 Design System / URANA Platform",
+      "thread": "T13 — ACAI V2",
+      "thread_code": "T13",
+      "domain": "interface-design",
+      "collection": "qoder",
+      "description": "ACAI V2 cognitive engine integration — six interdependent engines: NEXUS (mouse velocity, keystroke cadence, scroll patterns), PATHOS (5-axis emotion vector), KAIROS 3.0 (autonomous mode decisions), MNEMOS (behavioral profiles), TELOS (next-query inference), Face2Feel (camera-gated facial emotion). Use when implementing cognitive-adaptive UI or emotion-responsive interfaces. Thread 13 — ACAI V2.",
+      "trigger_keywords": [
+        "cognitive",
+        "engines"
+      ],
+      "source": "QoderWork — C:/Users/Legion/.qoderwork/skills",
+      "classification": "ACUTERIUM-PROPRIETARY",
+      "path": "registry/skills/qoder/QODER-COGNITIVE-ENGINES-004/SKILL.md"
+    },
+    {
+      "skill_id": "ACU-QODER-002",
+      "registry_id": "de78a0b6",
+      "name": "QODER-DESIGN-TOKENS-002",
+      "display_name": "Design Tokens",
+      "version": "1.0.0",
+      "category": "ACAI V2 Design System / URANA Platform",
+      "thread": "T13 — ACAI V2",
+      "thread_code": "T13",
+      "domain": "interface-design",
+      "collection": "qoder",
+      "description": "Acuterium design token system with three adaptive editions — Government (light #B8D4E8, Cinzel serif, Noto Kufi Arabic, prayer-time CHRONOS), Commercial (dark #0A0E1A, Inter sans-serif, gold #C9A84C, amber #FF6B35), and Client (auto-adaptive via CHRONOS temporal). Use when setting up theming, color palettes, typography, spacing, or switching between Acuterium editions. Thread 13 — ACAI V2.",
+      "trigger_keywords": [
+        "design",
+        "tokens"
+      ],
+      "source": "QoderWork — C:/Users/Legion/.qoderwork/skills",
+      "classification": "ACUTERIUM-PROPRIETARY",
+      "path": "registry/skills/qoder/QODER-DESIGN-TOKENS-002/SKILL.md"
+    },
+    {
+      "skill_id": "ACU-QODER-003",
+      "registry_id": "ecc7be03",
+      "name": "QODER-GLASS-COMP-003",
+      "display_name": "Glass Comp",
+      "version": "1.0.0",
+      "category": "ACAI V2 Design System / URANA Platform",
+      "thread": "T13 — ACAI V2",
+      "thread_code": "T13",
+      "domain": "interface-design",
+      "collection": "qoder",
+      "description": "Glassmorphism component library for Acuterium ACAI V2 — buttons, cards, containers, nav bars, toolbars, consciousness bar, breathing orb, aurora particles. Three edition variants. Cross-platform: CSS/React, SwiftUI, Jetpack Compose. Use when building glass UI components or applying frosted/blur effects. Thread 13 — ACAI V2.",
+      "trigger_keywords": [
+        "glass",
+        "comp"
+      ],
+      "source": "QoderWork — C:/Users/Legion/.qoderwork/skills",
+      "classification": "ACUTERIUM-PROPRIETARY",
+      "path": "registry/skills/qoder/QODER-GLASS-COMP-003/SKILL.md"
+    },
+    {
+      "skill_id": "ACU-QODER-024",
+      "registry_id": "75c84cb7",
+      "name": "QODER-HANDOFF-PROTOCOL-024",
+      "display_name": "Handoff Protocol",
+      "version": "1.0.0",
+      "category": "ACAI V2 Design System / URANA Platform",
+      "thread": "T13 — ACAI V2",
+      "thread_code": "T13",
+      "domain": "interface-design",
+      "collection": "qoder",
+      "description": "Acuterium handoff protocol discipline — 18-field handoff packet schema, 7-item downstream acceptance checklist, rejection format with reason codes, 4 mutation classes (0=Read-only, 1=Bounded Artifact, 2=Code Mutation, 3=Deployment), confidence discipline (HIGH/MEDIUM/LOW), staleness rules (6 triggers), 5 upstream-to-downstream patterns, 6-question skill selection decision tree. Use when coordinating multi-agent workflows, enforcing evidence-before-action, or managing session orchestration. Thread 13 — ACAI V2.",
+      "trigger_keywords": [
+        "handoff",
+        "protocol"
+      ],
+      "source": "QoderWork — C:/Users/Legion/.qoderwork/skills",
+      "classification": "ACUTERIUM-PROPRIETARY",
+      "path": "registry/skills/qoder/QODER-HANDOFF-PROTOCOL-024/SKILL.md"
+    },
+    {
+      "skill_id": "ACU-QODER-007",
+      "registry_id": "58ca2a65",
+      "name": "QODER-IOS-IMPL-007",
+      "display_name": "Ios Impl",
+      "version": "1.0.0",
+      "category": "ACAI V2 Design System / URANA Platform",
+      "thread": "T13 — ACAI V2",
+      "thread_code": "T13",
+      "domain": "interface-design",
+      "collection": "qoder",
+      "description": "iOS/SwiftUI implementation of ACAI V2 — glass effects (.glassEffect, GlassEffectContainer), UIKit integration, WidgetKit modes, edition theming via EnvironmentValues, cognitive engine hooks, CHRONOS prayer-time adaptation. Targets iOS 26+. Use when building Acuterium iOS apps or glass-morphism mobile interfaces. Thread 13 — ACAI V2.",
+      "trigger_keywords": [
+        "ios",
+        "impl"
+      ],
+      "source": "QoderWork — C:/Users/Legion/.qoderwork/skills",
+      "classification": "ACUTERIUM-PROPRIETARY",
+      "path": "registry/skills/qoder/QODER-IOS-IMPL-007/SKILL.md"
+    },
+    {
+      "skill_id": "ACU-QODER-025",
+      "registry_id": "f14a124d",
+      "name": "QODER-LUQMANML-025",
+      "display_name": "Luqmanml",
+      "version": "1.0.0",
+      "category": "ACAI V2 Design System / URANA Platform",
+      "thread": "T13 — ACAI V2",
+      "thread_code": "T13",
+      "domain": "interface-design",
+      "collection": "qoder",
+      "description": "LuqmanML sovereign training skill family — 19 skills (ACU-LUQ-001 through ACU-LUQ-019) covering the full sovereign model lifecycle: meta-authoring, orchestration, doctrine infusion, dataset governance, SFT pipelines, RLVR engines, distillation, encoder training, evaluation, Arabic curation, release gating, nano-models, model registry, agentic alignment, HMAdam optimizer, MoE-CoT distillation, stage-loss masking, hybrid context architecture, and BetterRAG sync. 7-phase creation sequence. Use when building sovereign AI models, training pipelines, or LuqmanML skills. Thread 13 — ACAI V2.",
+      "trigger_keywords": [
+        "luqmanml"
+      ],
+      "source": "QoderWork — C:/Users/Legion/.qoderwork/skills",
+      "classification": "ACUTERIUM-PROPRIETARY",
+      "path": "registry/skills/qoder/QODER-LUQMANML-025/SKILL.md"
+    },
+    {
+      "skill_id": "ACU-QODER-012",
+      "registry_id": "ab6e5322",
+      "name": "QODER-MAJD-CHAT-012",
+      "display_name": "Majd Chat",
+      "version": "1.0.0",
+      "category": "ACAI V2 Design System / URANA Platform",
+      "thread": "T13 — ACAI V2",
+      "thread_code": "T13",
+      "domain": "interface-design",
+      "collection": "qoder",
+      "description": "MAJD chat interface pattern — bilingual Arabic/English chat UI with neuro-adaptive mode, cognitive load indicator, conversation history sidebar, quick actions grid, Framer Motion message animations, footer status bar (AI/Neuro/Quantum). Based on URANA's MajdChatInterface. Use when building AI chat interfaces with Acuterium's signature bilingual neuro-adaptive design. Thread 13 — ACAI V2.",
+      "trigger_keywords": [
+        "majd",
+        "chat"
+      ],
+      "source": "QoderWork — C:/Users/Legion/.qoderwork/skills",
+      "classification": "ACUTERIUM-PROPRIETARY",
+      "path": "registry/skills/qoder/QODER-MAJD-CHAT-012/SKILL.md"
+    },
+    {
+      "skill_id": "ACU-QODER-020",
+      "registry_id": "b1ff70ff",
+      "name": "QODER-MATH-ENGINES-020",
+      "display_name": "Math Engines",
+      "version": "1.0.0",
+      "category": "ACAI V2 Design System / URANA Platform",
+      "thread": "T13 — ACAI V2",
+      "thread_code": "T13",
+      "domain": "interface-design",
+      "collection": "qoder",
+      "description": "Acuterium mathematical backbone — PRISM bias-corrected probability (P_adj = P_base - R_i + ES_i * 0.15), RIA 5-equation regulatory impact framework, CASCADE outcome calculator (P_goal = 1 - Product(1-P_i)), STRAT multi-algorithm strategic planner with Monte Carlo and Bayesian updates. Use when computing probabilities, viability assessments, cascade outcomes, or strategic predictions in Acuterium systems. Thread 13 — ACAI V2.",
+      "trigger_keywords": [
+        "math",
+        "engines"
+      ],
+      "source": "QoderWork — C:/Users/Legion/.qoderwork/skills",
+      "classification": "ACUTERIUM-PROPRIETARY",
+      "path": "registry/skills/qoder/QODER-MATH-ENGINES-020/SKILL.md"
+    },
+    {
+      "skill_id": "ACU-QODER-005",
+      "registry_id": "a90403f9",
+      "name": "QODER-MOTION-MORPH-005",
+      "display_name": "Motion Morph",
+      "version": "1.0.0",
+      "category": "ACAI V2 Design System / URANA Platform",
+      "thread": "T13 — ACAI V2",
+      "thread_code": "T13",
+      "domain": "interface-design",
+      "collection": "qoder",
+      "description": "ACAI V2 motion design system — glass morphing transitions, scroll edge effects, CHRONOS temporal adaptation (prayer-time, day/night), aurora particles, breathing orb, consciousness bar animations. Cross-platform: Framer Motion (Web), SwiftUI, Jetpack Compose. Use when implementing glass transitions or Acuterium signature animations. Thread 13 — ACAI V2.",
+      "trigger_keywords": [
+        "motion",
+        "morph"
+      ],
+      "source": "QoderWork — C:/Users/Legion/.qoderwork/skills",
+      "classification": "ACUTERIUM-PROPRIETARY",
+      "path": "registry/skills/qoder/QODER-MOTION-MORPH-005/SKILL.md"
+    },
+    {
+      "skill_id": "ACU-QODER-018",
+      "registry_id": "b3dc0088",
+      "name": "QODER-NEURO-ENGINE-018",
+      "display_name": "Neuro Engine",
+      "version": "1.0.0",
+      "category": "ACAI V2 Design System / URANA Platform",
+      "thread": "T13 — ACAI V2",
+      "thread_code": "T13",
+      "domain": "interface-design",
+      "collection": "qoder",
+      "description": "Neuro-adaptive UI engine for Acuterium ACAI V2 — cognitive load tracking (0.0-1.0 scale), emotional context propagation (valence/arousal), automatic interface simplification when load exceeds 0.7, EEG integration hooks (Muse headset), Face2Feel emotion detection, and neuro-adaptive message rendering. Use when building adaptive interfaces that respond to user cognitive state. Thread 13 — ACAI V2.",
+      "trigger_keywords": [
+        "neuro",
+        "engine"
+      ],
+      "source": "QoderWork — C:/Users/Legion/.qoderwork/skills",
+      "classification": "ACUTERIUM-PROPRIETARY",
+      "path": "registry/skills/qoder/QODER-NEURO-ENGINE-018/SKILL.md"
+    },
+    {
+      "skill_id": "ACU-QODER-022",
+      "registry_id": "497c6848",
+      "name": "QODER-PSI-PERSUASION-022",
+      "display_name": "Psi Persuasion",
+      "version": "1.0.0",
+      "category": "ACAI V2 Design System / URANA Platform",
+      "thread": "T13 — ACAI V2",
+      "thread_code": "T13",
+      "domain": "interface-design",
+      "collection": "qoder",
+      "description": "PSI-DOMINION Persuasion Calibrator — eta_i composite scoring (ethics*0.4 + tone*0.3 + structure*0.3), banned-word lexicon with approved replacements, 6 persuasion techniques (Silent Authority, Hybrid Trust, Active Verification Questions, Cognitive Load Discipline, Non-Threat Posture, Outcome-First Structure), audience psychological profiling for 7 decision-maker types. Gate 6 threshold: eta >= 0.80. Use when calibrating persuasive content, checking tone compliance, or profiling audiences. Thread 13 — ACAI V2.",
+      "trigger_keywords": [
+        "psi",
+        "persuasion"
+      ],
+      "source": "QoderWork — C:/Users/Legion/.qoderwork/skills",
+      "classification": "ACUTERIUM-PROPRIETARY",
+      "path": "registry/skills/qoder/QODER-PSI-PERSUASION-022/SKILL.md"
+    },
+    {
+      "skill_id": "ACU-QODER-017",
+      "registry_id": "1bfc8a13",
+      "name": "QODER-PWA-KIT-017",
+      "display_name": "Pwa Kit",
+      "version": "1.0.0",
+      "category": "ACAI V2 Design System / URANA Platform",
+      "thread": "T13 — ACAI V2",
+      "thread_code": "T13",
+      "domain": "interface-design",
+      "collection": "qoder",
+      "description": "Progressive Web App toolkit for Acuterium applications — service worker with cache-first/network-first hybrid strategy, background sync for offline submissions, push notifications with vibration patterns, installable PWA manifest with shortcuts, and maskable icon configuration. Use when building Acuterium PWAs, implementing offline support, or configuring service workers. Thread 13 — ACAI V2.",
+      "trigger_keywords": [
+        "pwa",
+        "kit"
+      ],
+      "source": "QoderWork — C:/Users/Legion/.qoderwork/skills",
+      "classification": "ACUTERIUM-PROPRIETARY",
+      "path": "registry/skills/qoder/QODER-PWA-KIT-017/SKILL.md"
+    },
+    {
+      "skill_id": "ACU-QODER-011",
+      "registry_id": "fa49dc6e",
+      "name": "QODER-Q-ENC-SECURITY-011",
+      "display_name": "Q Enc Security",
+      "version": "1.0.0",
+      "category": "ACAI V2 Design System / URANA Platform",
+      "thread": "T13 — ACAI V2",
+      "thread_code": "T13",
+      "domain": "interface-design",
+      "collection": "qoder",
+      "description": "Q-ENC quantum-inspired multi-layer encryption — AES-256 with PBKDF2 key derivation, configurable encryption layers (1-3), document-level encryption with SHA256 integrity, secure token generation, sovereignty tier enforcement. Use when implementing Acuterium security, encrypting sensitive data, or applying quantum-resistant encryption patterns. Thread 13 — ACAI V2.",
+      "trigger_keywords": [
+        "q",
+        "enc",
+        "security"
+      ],
+      "source": "QoderWork — C:/Users/Legion/.qoderwork/skills",
+      "classification": "ACUTERIUM-PROPRIETARY",
+      "path": "registry/skills/qoder/QODER-Q-ENC-SECURITY-011/SKILL.md"
+    },
+    {
+      "skill_id": "ACU-QODER-021",
+      "registry_id": "b21771a1",
+      "name": "QODER-REDTEAM-QA-021",
+      "display_name": "Redteam Qa",
+      "version": "1.0.0",
+      "category": "ACAI V2 Design System / URANA Platform",
+      "thread": "T13 — ACAI V2",
+      "thread_code": "T13",
+      "domain": "interface-design",
+      "collection": "qoder",
+      "description": "Acuterium adversarial verification engine — 8-Gate Audit Matrix (Admissibility, Regulatory Precision, Scope-Lock, PJS Bypass, Evidence-Lock, Tone Compliance, Cascade Integrity, Red-Team Survival). 5 adversarial personas (Opposing Counsel, Panel Chair, Regulatory Solicitor, Statistical Adversary, Internal Devil's Advocate). Distribution Readiness Certificates (72-hour validity). Argument Survival Scores (0-100). Use when verifying outputs, running QA audits, or red-teaming deliverables. Thread 13 — ACAI V2.",
+      "trigger_keywords": [
+        "redteam",
+        "qa"
+      ],
+      "source": "QoderWork — C:/Users/Legion/.qoderwork/skills",
+      "classification": "ACUTERIUM-PROPRIETARY",
+      "path": "registry/skills/qoder/QODER-REDTEAM-QA-021/SKILL.md"
+    },
+    {
+      "skill_id": "ACU-QODER-014",
+      "registry_id": "f6bc50ac",
+      "name": "QODER-SEEKER-AGENTS-014",
+      "display_name": "Seeker Agents",
+      "version": "1.0.0",
+      "category": "ACAI V2 Design System / URANA Platform",
+      "thread": "T13 — ACAI V2",
+      "thread_code": "T13",
+      "domain": "interface-design",
+      "collection": "qoder",
+      "description": "Acuterium Seeker Autonomous Agents - self-operating multi-agent system for autonomous night-seeker operations. Runs sub-agent process flows with orchestration, evidence-before-action discipline, read-only discovery before mutation, structured handoff packets, and APASF-SPEC-001 compliance. Operates across Qwen, QoderWork, Claude Code, Perplexity Computer, ChatGPT-CODEX, and AcuTect-CODEX. Use when building autonomous agent workflows or self-directed multi-agent build pipelines. Thread 13 - ACAI V2.",
+      "trigger_keywords": [
+        "seeker",
+        "agents"
+      ],
+      "source": "QoderWork — C:/Users/Legion/.qoderwork/skills",
+      "classification": "ACUTERIUM-PROPRIETARY",
+      "path": "registry/skills/qoder/QODER-SEEKER-AGENTS-014/SKILL.md"
+    },
+    {
+      "skill_id": "ACU-QODER-023",
+      "registry_id": "9738f47a",
+      "name": "QODER-SOVEREIGN-GOV-023",
+      "display_name": "Sovereign Gov",
+      "version": "1.0.0",
+      "category": "ACAI V2 Design System / URANA Platform",
+      "thread": "T13 — ACAI V2",
+      "thread_code": "T13",
+      "domain": "interface-design",
+      "collection": "qoder",
+      "description": "Acuterium sovereignty governance layer — ASIP v2 7-stage soul infusion pipeline, TokenBridge authorization (ACT/INT/CON with REQUIRED/ELEVATED/UNRESTRICTED/OPTIONAL enums), CWH attestation (HITL patterns, signed provenance), M-PCB Doctrine (algorithms not disclosed, only outputs), APMS protocol management (523 protocols, FTS5 search, QA guardrails). 5 owned control domains: MAPL_POLICY, ASIP_IDENTITY_GATING, CWH_ATTESTATION, ACUTECT_CODEX_ENFORCEMENT, APMS_PROVENANCE. Use when enforcing sovereignty, managing protocols, or implementing governance in Acuterium systems. Thread 13 — ACAI V2.",
+      "trigger_keywords": [
+        "sovereign",
+        "gov"
+      ],
+      "source": "QoderWork — C:/Users/Legion/.qoderwork/skills",
+      "classification": "ACUTERIUM-PROPRIETARY",
+      "path": "registry/skills/qoder/QODER-SOVEREIGN-GOV-023/SKILL.md"
+    },
+    {
+      "skill_id": "ACU-QODER-019",
+      "registry_id": "33373f19",
+      "name": "QODER-SUPABASE-AUTH-019",
+      "display_name": "Supabase Auth",
+      "version": "1.0.0",
+      "category": "ACAI V2 Design System / URANA Platform",
+      "thread": "T13 — ACAI V2",
+      "thread_code": "T13",
+      "domain": "interface-design",
+      "collection": "qoder",
+      "description": "Supabase authentication and multi-tenant authorization for Acuterium platforms — JWT-based auth with 15-minute access tokens, refresh token rotation, multi-tenant membership resolution, automatic tenant creation on registration, and Row-Level Security (RLS) policy integration. Use when implementing authentication, multi-tenant access control, or Supabase integration in Acuterium applications. Thread 13 — ACAI V2.",
+      "trigger_keywords": [
+        "supabase",
+        "auth"
+      ],
+      "source": "QoderWork — C:/Users/Legion/.qoderwork/skills",
+      "classification": "ACUTERIUM-PROPRIETARY",
+      "path": "registry/skills/qoder/QODER-SUPABASE-AUTH-019/SKILL.md"
+    },
+    {
+      "skill_id": "ACU-QODER-009",
+      "registry_id": "e0ed92af",
+      "name": "QODER-SWARM-UI-BUILD-009",
+      "display_name": "Swarm Ui Build",
+      "version": "1.0.0",
+      "category": "ACAI V2 Design System / URANA Platform",
+      "thread": "T13 — ACAI V2",
+      "thread_code": "T13",
+      "domain": "interface-design",
+      "collection": "qoder",
+      "description": "Multi-agent swarm workflow for building complete Acuterium ACAI V2 interfaces — orchestrates token setup, component scaffolding, cognitive engine wiring, motion integration, edition theming, and cross-platform deployment. Follows BDIS swarm pattern. Use when building a full Acuterium app from scratch or coordinating multi-agent UI construction. Thread 13 — ACAI V2.",
+      "trigger_keywords": [
+        "swarm",
+        "ui",
+        "build"
+      ],
+      "source": "QoderWork — C:/Users/Legion/.qoderwork/skills",
+      "classification": "ACUTERIUM-PROPRIETARY",
+      "path": "registry/skills/qoder/QODER-SWARM-UI-BUILD-009/SKILL.md"
+    },
+    {
+      "skill_id": "ACU-QODER-010",
+      "registry_id": "0992928b",
+      "name": "QODER-URANA-PLATFORM-010",
+      "display_name": "Urana Platform",
+      "version": "1.0.0",
+      "category": "ACAI V2 Design System / URANA Platform",
+      "thread": "T13 — ACAI V2",
+      "thread_code": "T13",
+      "domain": "interface-design",
+      "collection": "qoder",
+      "description": "URANA platform architecture — multi-tenant PostgreSQL with Row-Level Security, Supabase authentication (JWT + refresh tokens), evidence library with SHA256 integrity, standards framework mapping, assessment tracking, appeals workflow, audit logging. Use when building Acuterium SaaS platforms, quality assurance systems, or accreditation management apps. Thread 13 — ACAI V2.",
+      "trigger_keywords": [
+        "urana",
+        "platform"
+      ],
+      "source": "QoderWork — C:/Users/Legion/.qoderwork/skills",
+      "classification": "ACUTERIUM-PROPRIETARY",
+      "path": "registry/skills/qoder/QODER-URANA-PLATFORM-010/SKILL.md"
+    },
+    {
+      "skill_id": "ACU-QODER-006",
+      "registry_id": "41abc17e",
+      "name": "QODER-WEB-IMPL-006",
+      "display_name": "Web Impl",
+      "version": "1.0.0",
+      "category": "ACAI V2 Design System / URANA Platform",
+      "thread": "T13 — ACAI V2",
+      "thread_code": "T13",
+      "domain": "interface-design",
+      "collection": "qoder",
+      "description": "Web/React implementation of ACAI V2 — React 18 + TypeScript + Vite + Tailwind CSS + tRPC + Framer Motion. Glass component library, edition theming, cognitive engine hooks, aurora particles, bilingual Arabic/English RTL. Use when building Acuterium web apps or glassmorphism web interfaces. Thread 13 — ACAI V2.",
+      "trigger_keywords": [
+        "web",
+        "impl"
+      ],
+      "source": "QoderWork — C:/Users/Legion/.qoderwork/skills",
+      "classification": "ACUTERIUM-PROPRIETARY",
+      "path": "registry/skills/qoder/QODER-WEB-IMPL-006/SKILL.md"
+    }
+  ]
+}
