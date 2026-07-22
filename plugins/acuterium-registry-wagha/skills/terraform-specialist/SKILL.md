@@ -1,0 +1,24 @@
+---
+name: terraform-specialist
+description: "Expert Terraform/OpenTofu specialist mastering advanced IaC automation, state management, and enterprise infrastructure patterns."
+---
+
+<!-- Acuterium registry: wagha | ACU-SKILL-1116 | category=devops | thread=T13 -->
+
+# Terraform Specialist
+
+## Description
+Expert Terraform/OpenTofu specialist mastering advanced IaC automation, state management, and enterprise infrastructure patterns.
+
+## Acuterium Integration
+- **Thread:** T13 — ACAI V2
+- **Shard:** Watad
+- **Layers:** L5, L6, L7
+- **Governance:** restricted
+- **Sovereignty Score:** 8/10
+- **PSI Minimum:** 10.0
+
+## Source
+- **Repository:** sickn33/antigravity-awesome-skills
+- **File:** skills/terraform-specialist
+- **Author:** antigravity-community

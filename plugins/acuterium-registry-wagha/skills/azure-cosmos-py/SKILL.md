@@ -1,0 +1,24 @@
+---
+name: azure-cosmos-py
+description: "Azure Cosmos DB SDK for Python (NoSQL API). Use for document CRUD, queries, containers, and globally distributed data."
+---
+
+<!-- Acuterium registry: wagha | ACU-SKILL-0164 | category=cloud-azure | thread=T13 -->
+
+# Azure Cosmos Py
+
+## Description
+Azure Cosmos DB SDK for Python (NoSQL API). Use for document CRUD, queries, containers, and globally distributed data.
+
+## Acuterium Integration
+- **Thread:** T13 — ACAI V2
+- **Shard:** Marel
+- **Layers:** L5, L6, L7
+- **Governance:** restricted
+- **Sovereignty Score:** 8/10
+- **PSI Minimum:** 10.0
+
+## Source
+- **Repository:** sickn33/antigravity-awesome-skills
+- **File:** skills/azure-cosmos-py
+- **Author:** antigravity-community

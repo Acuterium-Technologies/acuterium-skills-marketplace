@@ -1,0 +1,15 @@
+{
+  "name": "acuterium-registry-commercial",
+  "description": "Acuterium commercial registry skills \u2014 Finarah, BizElevate, RUZN and product-facing capability skills.",
+  "version": "1.0.0",
+  "author": {
+    "name": "Acuterium Technologies Inc."
+  },
+  "license": "LicenseRef-Proprietary-ACU",
+  "category": "commercial",
+  "keywords": [
+    "acuterium",
+    "registry",
+    "commercial"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "name": "acuterium-registry-wagha",
+  "description": "Acuterium WAGHA registry skills \u2014 DevOps/infra, cloud SDKs, CI/CD, agent frameworks, integrations and tooling skills.",
+  "version": "1.0.0",
+  "author": {
+    "name": "Acuterium Technologies Inc."
+  },
+  "license": "LicenseRef-Proprietary-ACU",
+  "category": "wagha",
+  "keywords": [
+    "acuterium",
+    "registry",
+    "wagha"
+  ]
+}

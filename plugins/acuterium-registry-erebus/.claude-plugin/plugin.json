@@ -1,0 +1,15 @@
+{
+  "name": "acuterium-registry-erebus",
+  "description": "Acuterium Erebus-CSE registry skills \u2014 sovereign cyber-defence, OSINT/forensics, threat intelligence, C2 and security-doctrine skills.",
+  "version": "1.0.0",
+  "author": {
+    "name": "Acuterium Technologies Inc."
+  },
+  "license": "LicenseRef-Proprietary-ACU",
+  "category": "erebus-cse",
+  "keywords": [
+    "acuterium",
+    "registry",
+    "erebus-cse"
+  ]
+}
