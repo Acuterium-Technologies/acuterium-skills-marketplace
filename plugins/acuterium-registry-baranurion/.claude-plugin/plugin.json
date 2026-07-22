@@ -1,0 +1,15 @@
+{
+  "name": "acuterium-registry-baranurion",
+  "description": "Acuterium BARANURION-core registry skills \u2014 governance, APMS/ADOCP orchestration, Q-ENC, DIARAN-MoE and core intelligence-layer skills.",
+  "version": "1.0.0",
+  "author": {
+    "name": "Acuterium Technologies Inc."
+  },
+  "license": "LicenseRef-Proprietary-ACU",
+  "category": "baranurion-core",
+  "keywords": [
+    "acuterium",
+    "registry",
+    "baranurion-core"
+  ]
+}

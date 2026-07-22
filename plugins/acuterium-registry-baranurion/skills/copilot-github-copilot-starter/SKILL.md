@@ -1,0 +1,24 @@
+---
+name: copilot-github-copilot-starter
+description: "Set up complete GitHub Copilot configuration for a new project based on technology stack"
+---
+
+<!-- Acuterium registry: baranurion-core | ACU-SKILL-1909 | category=code-review | thread=T04 -->
+
+# Github Copilot Starter
+
+## Description
+Set up complete GitHub Copilot configuration for a new project based on technology stack
+
+## Acuterium Integration
+- **Thread:** T04 — ACIW
+- **Shard:** AcuTect-CODEX
+- **Layers:** L5, L6, L7, L8
+- **Governance:** mandatory
+- **Sovereignty Score:** 10/10
+- **PSI Minimum:** 10.0
+
+## Source
+- **Repository:** github/awesome-copilot
+- **File:** skills/github-copilot-starter/SKILL.md
+- **Author:** GitHub Copilot Community

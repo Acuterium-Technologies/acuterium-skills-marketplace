@@ -89,6 +89,81 @@
       "author": {
         "name": "Acuterium Technologies Inc."
       }
+    },
+    {
+      "name": "acuterium-registry-baranurion",
+      "source": "./acuterium-registry-baranurion",
+      "description": "Acuterium BARANURION-core registry skills \u2014 governance, APMS/ADOCP orchestration, Q-ENC, DIARAN-MoE and core intelligence-layer skills.",
+      "version": "1.0.0",
+      "category": "baranurion-core",
+      "tags": [
+        "acuterium",
+        "registry",
+        "baranurion-core"
+      ],
+      "author": {
+        "name": "Acuterium Technologies Inc."
+      }
+    },
+    {
+      "name": "acuterium-registry-erebus",
+      "source": "./acuterium-registry-erebus",
+      "description": "Acuterium Erebus-CSE registry skills \u2014 sovereign cyber-defence, OSINT/forensics, threat intelligence, C2 and security-doctrine skills.",
+      "version": "1.0.0",
+      "category": "erebus-cse",
+      "tags": [
+        "acuterium",
+        "registry",
+        "erebus-cse"
+      ],
+      "author": {
+        "name": "Acuterium Technologies Inc."
+      }
+    },
+    {
+      "name": "acuterium-registry-wagha",
+      "source": "./acuterium-registry-wagha",
+      "description": "Acuterium WAGHA registry skills \u2014 DevOps/infra, cloud SDKs, CI/CD, agent frameworks, integrations and tooling skills.",
+      "version": "1.0.0",
+      "category": "wagha",
+      "tags": [
+        "acuterium",
+        "registry",
+        "wagha"
+      ],
+      "author": {
+        "name": "Acuterium Technologies Inc."
+      }
+    },
+    {
+      "name": "acuterium-registry-commercial",
+      "source": "./acuterium-registry-commercial",
+      "description": "Acuterium commercial registry skills \u2014 Finarah, BizElevate, RUZN and product-facing capability skills.",
+      "version": "1.0.0",
+      "category": "commercial",
+      "tags": [
+        "acuterium",
+        "registry",
+        "commercial"
+      ],
+      "author": {
+        "name": "Acuterium Technologies Inc."
+      }
+    },
+    {
+      "name": "acuterium-registry-qoder",
+      "source": "./acuterium-registry-qoder",
+      "description": "Acuterium QODER registry skills \u2014 ACAI V2 coding/agent skills collection.",
+      "version": "1.0.0",
+      "category": "qoder",
+      "tags": [
+        "acuterium",
+        "registry",
+        "qoder"
+      ],
+      "author": {
+        "name": "Acuterium Technologies Inc."
+      }
     }
   ]
 }

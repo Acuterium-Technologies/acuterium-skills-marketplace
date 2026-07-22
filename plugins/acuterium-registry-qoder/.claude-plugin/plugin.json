@@ -1,0 +1,15 @@
+{
+  "name": "acuterium-registry-qoder",
+  "description": "Acuterium QODER registry skills \u2014 ACAI V2 coding/agent skills collection.",
+  "version": "1.0.0",
+  "author": {
+    "name": "Acuterium Technologies Inc."
+  },
+  "license": "LicenseRef-Proprietary-ACU",
+  "category": "qoder",
+  "keywords": [
+    "acuterium",
+    "registry",
+    "qoder"
+  ]
+}
