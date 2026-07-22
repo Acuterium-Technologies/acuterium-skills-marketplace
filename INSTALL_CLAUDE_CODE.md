@@ -11,12 +11,19 @@ the Acuterium doctrines and skills instead of them sitting inert on disk.
 
 ## What's included
 
-| Plugin | Contents |
-| ------ | -------- |
-| `acuterium-doctrines` | 19 sovereign doctrines/protocols as Claude Code skills: ADOCP routing, ASIP soul-infusion (via ADOCP), BARANURION-governed engines, PRISM, RED-TEAM 8-gate QA, MADA briefing, DAG engine, LLM judge/matrix/negotiation, CrewAI executor, task-recovery, Erebus cyber-defence, threat/strategy/RIA/URANA/PSI/ENC/CASCADE engines. |
+| Plugin | Skills | Contents |
+| ------ | ------ | -------- |
+| `acuterium-doctrines` | 19 | Sovereign doctrines/protocols: ADOCP routing, ASIP soul-infusion, BARANURION-governed engines, PRISM, RED-TEAM 8-gate QA, MADA briefing, DAG engine, LLM judge/matrix/negotiation, CrewAI executor, task-recovery, Erebus cyber-defence, threat/strategy/RIA/URANA/PSI/ENC/CASCADE engines. |
+| `acuterium-legal-ai` | 5 | RUZN.AI legal: contract review, legal research, document drafting, due diligence, e-discovery (Omani/GCC standards). |
+| `acuterium-compliance-ai` | 5 | Compliance monitoring, regulatory-change intelligence, policy enforcement, risk assessment, compliance workflow automation. |
+| `acuterium-audit-ai` | 3 | Internal audit automation, automated compliance auditing, audit-trail & evidence management. |
+| `acuterium-quality-assurance` | 3 | Ūrānā QMS: QA framework, accreditation/attestation intelligence, CAPA narrative generation. |
 
-More plugins (the full 4,122-skill catalog under `skills/` and `registry/`) can be
-added to `.claude-plugin/marketplace.json` as additional entries over time.
+Install any subset with `/plugin install <name>@acuterium-skills-marketplace`.
+
+**Next tranche (not yet packaged):** the ~2,206 technical/infra skills under
+`registry/skills/wagha/` (Azure, Terraform, CrewAI, CI/CD, etc.) can be added as a
+bulk `acuterium-registry` plugin in a follow-up.
 
 ## Install (from GitHub — works on local, web, and mobile)
 

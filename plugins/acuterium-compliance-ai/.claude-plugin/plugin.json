@@ -1,0 +1,15 @@
+{
+  "name": "acuterium-compliance-ai",
+  "description": "Acuterium compliance AI skills \u2014 compliance monitoring, regulatory-change intelligence, policy enforcement, risk assessment, compliance workflow automation.",
+  "version": "1.0.0",
+  "author": {
+    "name": "Acuterium Technologies Inc."
+  },
+  "license": "LicenseRef-Proprietary-ACU",
+  "category": "compliance-ai",
+  "keywords": [
+    "acuterium",
+    "compliance-ai",
+    "sovereign"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "name": "acuterium-quality-assurance",
+  "description": "Acuterium quality-assurance skills (\u016ar\u0101n\u0101 QMS) \u2014 QA framework, accreditation/attestation intelligence, CAPA narrative generation.",
+  "version": "1.0.0",
+  "author": {
+    "name": "Acuterium Technologies Inc."
+  },
+  "license": "LicenseRef-Proprietary-ACU",
+  "category": "quality-assurance",
+  "keywords": [
+    "acuterium",
+    "quality-assurance",
+    "sovereign"
+  ]
+}

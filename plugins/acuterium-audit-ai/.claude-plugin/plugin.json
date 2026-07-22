@@ -1,0 +1,15 @@
+{
+  "name": "acuterium-audit-ai",
+  "description": "Acuterium audit AI skills \u2014 internal audit automation, automated compliance auditing, audit-trail & evidence management.",
+  "version": "1.0.0",
+  "author": {
+    "name": "Acuterium Technologies Inc."
+  },
+  "license": "LicenseRef-Proprietary-ACU",
+  "category": "audit-ai",
+  "keywords": [
+    "acuterium",
+    "audit-ai",
+    "sovereign"
+  ]
+}
