@@ -1,0 +1,19 @@
+{
+  "name": "acuterium-doctrines",
+  "description": "Acuterium sovereign doctrines, protocols & orchestration brain (ADOCP routing, ASIP soul-infusion, BARANURION governance, PRISM, RED-TEAM 8-gate QA, MADA, threat/strategy engines) as Claude Code skills.",
+  "version": "1.0.0",
+  "author": {
+    "name": "Acuterium Technologies Inc."
+  },
+  "license": "LicenseRef-Proprietary-ACU",
+  "keywords": [
+    "acuterium",
+    "doctrine",
+    "adocp",
+    "asip",
+    "baranurion",
+    "orchestration",
+    "governance",
+    "sovereign"
+  ]
+}

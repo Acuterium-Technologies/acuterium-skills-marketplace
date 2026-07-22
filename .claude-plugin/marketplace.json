@@ -1,0 +1,94 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-marketplace.json",
+  "name": "acuterium-skills-marketplace",
+  "description": "Acuterium Agent Skills Marketplace \u2014 sovereign doctrines, protocols and agent skills for the Acuterium ecosystem, packaged as installable Claude Code plugins.",
+  "owner": {
+    "name": "Acuterium Technologies Inc.",
+    "email": "chairman@celebrity-global.com"
+  },
+  "metadata": {
+    "pluginRoot": "./plugins"
+  },
+  "plugins": [
+    {
+      "name": "acuterium-doctrines",
+      "source": "./acuterium-doctrines",
+      "description": "Acuterium sovereign doctrines & orchestration brain: ADOCP routing, ASIP soul-infusion, BARANURION governance, PRISM, RED-TEAM 8-gate QA, MADA briefing, DAG engine, LLM-judge/matrix/negotiation, CrewAI executor, task recovery, threat/strategy/RIA/URANA engines. 19 skills.",
+      "version": "1.0.0",
+      "category": "orchestration",
+      "tags": [
+        "acuterium",
+        "doctrine",
+        "adocp",
+        "asip",
+        "baranurion",
+        "governance",
+        "orchestration",
+        "sovereign"
+      ],
+      "author": {
+        "name": "Acuterium Technologies Inc."
+      }
+    },
+    {
+      "name": "acuterium-legal-ai",
+      "source": "./acuterium-legal-ai",
+      "description": "Acuterium sovereign legal AI skills (RUZN.AI) \u2014 contract review, legal research, document drafting, due diligence, e-discovery for Omani/GCC legal standards.",
+      "version": "1.0.0",
+      "category": "legal-ai",
+      "tags": [
+        "acuterium",
+        "legal-ai",
+        "sovereign"
+      ],
+      "author": {
+        "name": "Acuterium Technologies Inc."
+      }
+    },
+    {
+      "name": "acuterium-compliance-ai",
+      "source": "./acuterium-compliance-ai",
+      "description": "Acuterium compliance AI skills \u2014 compliance monitoring, regulatory-change intelligence, policy enforcement, risk assessment, compliance workflow automation.",
+      "version": "1.0.0",
+      "category": "compliance-ai",
+      "tags": [
+        "acuterium",
+        "compliance-ai",
+        "sovereign"
+      ],
+      "author": {
+        "name": "Acuterium Technologies Inc."
+      }
+    },
+    {
+      "name": "acuterium-audit-ai",
+      "source": "./acuterium-audit-ai",
+      "description": "Acuterium audit AI skills \u2014 internal audit automation, automated compliance auditing, audit-trail & evidence management.",
+      "version": "1.0.0",
+      "category": "audit-ai",
+      "tags": [
+        "acuterium",
+        "audit-ai",
+        "sovereign"
+      ],
+      "author": {
+        "name": "Acuterium Technologies Inc."
+      }
+    },
+    {
+      "name": "acuterium-quality-assurance",
+      "source": "./acuterium-quality-assurance",
+      "description": "Acuterium quality-assurance skills (\u016ar\u0101n\u0101 QMS) \u2014 QA framework, accreditation/attestation intelligence, CAPA narrative generation.",
+      "version": "1.0.0",
+      "category": "quality-assurance",
+      "tags": [
+        "acuterium",
+        "quality-assurance",
+        "sovereign"
+      ],
+      "author": {
+        "name": "Acuterium Technologies Inc."
+      }
+    }
+  ]
+}

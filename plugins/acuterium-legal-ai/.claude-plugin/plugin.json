@@ -1,0 +1,15 @@
+{
+  "name": "acuterium-legal-ai",
+  "description": "Acuterium sovereign legal AI skills (RUZN.AI) \u2014 contract review, legal research, document drafting, due diligence, e-discovery for Omani/GCC legal standards.",
+  "version": "1.0.0",
+  "author": {
+    "name": "Acuterium Technologies Inc."
+  },
+  "license": "LicenseRef-Proprietary-ACU",
+  "category": "legal-ai",
+  "keywords": [
+    "acuterium",
+    "legal-ai",
+    "sovereign"
+  ]
+}
