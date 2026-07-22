@@ -1,0 +1,25 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-marketplace.json",
+  "name": "acuterium-skills-marketplace",
+  "description": "Acuterium Agent Skills Marketplace — sovereign doctrines, protocols and agent skills for the Acuterium ecosystem, packaged as installable Claude Code plugins.",
+  "owner": {
+    "name": "Acuterium Technologies Inc.",
+    "email": "chairman@celebrity-global.com"
+  },
+  "metadata": {
+    "pluginRoot": "./plugins"
+  },
+  "plugins": [
+    {
+      "name": "acuterium-doctrines",
+      "source": "./acuterium-doctrines",
+      "description": "Acuterium sovereign doctrines & orchestration brain: ADOCP routing, ASIP soul-infusion, BARANURION governance, PRISM, RED-TEAM 8-gate QA, MADA briefing, DAG engine, LLM-judge/matrix/negotiation, CrewAI executor, task recovery, threat/strategy/RIA/URANA engines. 19 skills.",
+      "version": "1.0.0",
+      "category": "orchestration",
+      "tags": ["acuterium", "doctrine", "adocp", "asip", "baranurion", "governance", "orchestration", "sovereign"],
+      "author": {
+        "name": "Acuterium Technologies Inc."
+      }
+    }
+  ]
+}
